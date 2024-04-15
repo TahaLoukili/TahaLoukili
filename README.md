@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahaLoukili
 - 👀 I’m interested in Data Science / Artficial Intelligencee
-- 🌱 I’m currently learning TenosrFlow 
+- 🌱 I’m currently learning Deep learning
 - 📫 How to reach me tahaloukili13@gmail.com https://www.linkedin.com/in/taha-loukili-2b6225263/
 
 
